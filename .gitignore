@@ -78,5 +78,5 @@ yarn-error.log
 server/uploads/
 server/data/
 *.log
-.env
 
+config.bat
