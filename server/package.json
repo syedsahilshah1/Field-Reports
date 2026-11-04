@@ -4,7 +4,7 @@
   "description": "Failure-simulating backend server for Field Reports technical test",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node init && node index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
